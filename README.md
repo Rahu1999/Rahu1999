@@ -11,8 +11,5 @@ Learning **new things** Everyday.
 [LinkedIn](https://www.linkedin.com/in/rahul-rajbhar-861552208/) [Facebook]()
 
   
-<details>
-  <summary>📈 My GitHub Stats</summary>
-  
-
-   ![Rahul Rajbhar Stats](https://github-readme-stats.vercel.app/api?username=rahu1999&show_icons=true&theme=vision-friendly-dark)
+<a href="#stats">
+<img align="center" alt="Rahul Rajbhar Github Stats" src="https://gh-readme-stats.krish-the-dev.vercel.app/api?username=rahu1999&show_icons=true&count_private=true" /></a>
