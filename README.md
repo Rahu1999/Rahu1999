@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi I'm Rahul Rajbhar 
+**"Life should be Great rather then Long".**
+On adventure on learning programming! 
+I'm an Aspiring Software developer looking out for new opportunities.
+Learning **new things** Everyday. 
 
-<!--
-**Rahu1999/Rahu1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gmail id:**
+[Gmail](https://www.github.com/rahulrajbhar19999@gmail.com)
 
-Here are some ideas to get you started:
+**Social Site:**
+[LinkedIn](https://www.linkedin.com/in/rahul-rajbhar-861552208/) [Facebook]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<details>
+  <summary>📈 My GitHub Stats</summary>
+  
+
+   ![Rahul Rajbhar Stats](https://github-readme-stats.vercel.app/api?username=rahu1999&show_icons=true&theme=vision-friendly-dark)
